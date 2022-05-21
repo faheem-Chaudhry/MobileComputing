@@ -62,82 +62,82 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         int image = -1;
         switch (id){
             case R.id.A:
-                image = R.drawable.a;
+                image = 1;
                 break;
             case R.id.B:
-                image = R.drawable.b;
+                image = 2;
                 break;
             case R.id.C:
-                image = R.drawable.c;
+                image = 3;
                 break;
             case R.id.D:
-                image = R.drawable.d;
+                image = 4;
                 break;
             case R.id.E:
-                image = R.drawable.e;
+                image = 5;
                 break;
             case R.id.F:
-                image = R.drawable.f;
+                image = 6;
                 break;
             case R.id.G:
-                image = R.drawable.g;
+                image = 7;
                 break;
             case R.id.H:
-                image = R.drawable.h;
+                image = 8;
                 break;
             case R.id.I:
-                image = R.drawable.i;
+                image = 9;
                 break;
             case R.id.J:
-                image = R.drawable.j;
+                image = 10;
                 break;
             case R.id.K:
-                image = R.drawable.k;
+                image = 11;
                 break;
             case R.id.L:
-                image = R.drawable.l;
+                image = 12;
                 break;
             case R.id.M:
-                image = R.drawable.m;
+                image = 13;
                 break;
             case R.id.N:
-                image = R.drawable.n;
+                image = 14;
                 break;
             case R.id.O:
-                image = R.drawable.o;
+                image = 15;
                 break;
             case R.id.P:
-                image = R.drawable.p;
+                image = 16;
                 break;
             case R.id.Q:
-                image = R.drawable.q;
+                image = 17;
                 break;
             case R.id.R:
-                image = R.drawable.r;
+                image = 18;
                 break;
             case R.id.S:
-                image = R.drawable.s;
+                image = 19;
                 break;
             case R.id.T:
-                image = R.drawable.t;
+                image = 20;
                 break;
             case R.id.U:
-                image = R.drawable.u;
+                image = 21;
                 break;
             case R.id.V:
-                image = R.drawable.v;
+                image = 22;
                 break;
             case R.id.W:
-                image = R.drawable.w;
+                image = 23;
                 break;
             case R.id.X:
-                image = R.drawable.x;
+                image = 24;
                 break;
             case R.id.Y:
-                image = R.drawable.y;
+                image = 25;
                 break;
             case R.id.Z:
-                image = R.drawable.z;
+                image = 26;
                 break;
             default:
                 break;
