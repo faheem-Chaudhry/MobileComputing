@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ActivityPractice">
         <activity
+            android:name=".Quiz_5"
+            android:exported="false" />
+        <activity
+            android:name=".Quiz_4"
+            android:exported="false" />
+        <activity
+            android:name=".Quiz_3"
+            android:exported="false" />
+        <activity
+            android:name=".Quiz_2"
+            android:exported="false" />
+        <activity
+            android:name=".Quiz_1"
+            android:exported="false" />
+        <activity
+            android:name=".Learning_1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity

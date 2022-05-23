@@ -156,7 +156,7 @@ ImageView[] img;
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity2.this,MainActivity.class);
+                Intent intent = new Intent(MainActivity2.this,Learning_1.class);
                 startActivity(intent);
                 img[val-1].setVisibility(View.INVISIBLE);
             }
