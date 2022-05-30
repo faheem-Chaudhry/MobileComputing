@@ -14,5 +14,8 @@ ArrayList list;
         setContentView(R.layout.activity_main);
         list.add("pakistan zindabad");
         list.add("zindabad");
+        list.add("bangladesh");
+        list.add("india");
+
     }
 }
