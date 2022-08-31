@@ -13,7 +13,7 @@ ArrayList list;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         list.add("pakistan");
-        list.add("zindabad");
+        list.add("pakistan zindabad");
         list.add("bangladesh");
         list.add("india");
 
