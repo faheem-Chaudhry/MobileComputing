@@ -16,6 +16,9 @@ ArrayList list;
         list.add("pakistan zindabad");
         list.add("bangladesh");
         list.add("srilanka");
+        list.add("nepal");
+        list.add("bhutan");
+        list.add("srilanka");
 
     }
 }
