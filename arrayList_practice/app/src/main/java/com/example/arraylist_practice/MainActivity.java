@@ -15,7 +15,7 @@ ArrayList list;
         list.add("pakistan");
         list.add("pakistan zindabad");
         list.add("bangladesh");
-        list.add("india");
+        list.add("srilanka");
 
     }
 }
