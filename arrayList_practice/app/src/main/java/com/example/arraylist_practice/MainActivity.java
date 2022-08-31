@@ -12,7 +12,7 @@ ArrayList list;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        list.add("pakistan zindabad");
+        list.add("pakistan");
         list.add("zindabad");
         list.add("bangladesh");
         list.add("india");
