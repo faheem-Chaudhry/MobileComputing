@@ -20,6 +20,7 @@ ArrayList list;
         list.add("bhutan");
         list.add("srilanka");
         list.remove(1);
+        list.clear();
 
     }
 }
