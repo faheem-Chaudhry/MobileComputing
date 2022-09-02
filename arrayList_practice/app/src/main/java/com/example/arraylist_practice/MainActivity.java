@@ -19,6 +19,7 @@ ArrayList list;
         list.add("nepal");
         list.add("bhutan");
         list.add("srilanka");
+        list.remove(1);
 
     }
 }
