@@ -21,6 +21,9 @@ ArrayList list;
         list.add("srilanka");
         list.remove(1);
         list.clear();
+        list.add("nepal");
+        list.add("bhutan");
+        list.add("srilanka");
 
     }
 }
